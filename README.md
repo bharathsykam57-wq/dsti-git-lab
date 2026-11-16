@@ -12,7 +12,7 @@ This repository is part of the MLOps course at DSTI.
 
 ## Development
 
-CLI Developer 1: This project teaches Git branching using Terminal commands.
+This project teaches Git branching, collaboration, and version control using Terminal commands.
 
 ## Author
 
