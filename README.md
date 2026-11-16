@@ -12,7 +12,7 @@ This repository is part of the MLOps course at DSTI.
 
 ## Development
 
-This project focuses on Git version control, collaboration, and teamwork.
+CLI Developer 2: This project teaches Git collaboration using Terminal commands.
 
 ## Author
 
