@@ -12,7 +12,7 @@ This repository is part of the MLOps course at DSTI.
 
 ## Development
 
-This README was updated on the develop branch.
+Developer 1: This project focuses on Git version control.
 
 ## Author
 
