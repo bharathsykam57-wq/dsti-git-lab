@@ -12,8 +12,7 @@ This repository is part of the MLOps course at DSTI.
 
 ## Development
 
-This README was updated on the develop branch.
-
+Developer 2: This project focuses on Git collaboration and teamwork.
 ## Author
 
 Bharath Sykam
