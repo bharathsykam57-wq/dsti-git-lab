@@ -12,7 +12,7 @@ This repository is part of the MLOps course at DSTI.
 
 ## Development
 
-Developer 1: This project focuses on Git version control.
+This project focuses on Git version control, collaboration, and teamwork.
 
 ## Author
 
